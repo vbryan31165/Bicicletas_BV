@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+.h1_1{
+	color: #000000;
+	font-style: italic;
+	
+}
+p{
+	color:black;
+	font-family: "comic Sans MS", cursive;
+	text-align: justify;
+}
+body{
+	background-color: #808080;
+	
+}
+
+	
+.h1_2{
+	color:black;
+	text-align: center;
+	font-style: italic;
+}
+.h1_3{
+	color: black;
+	font-style: italic;
+}
+.menu ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+   
+	
+	
+}
+.menu li {
+	float: left;
+	
+}
+.menu li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 10px 159px;
+	text-decoration: none;
+	font-family: "comic Sans MS", cursive;
+	
+}
+.menu li a:hover {
+	background-color: #111;
+}
+hr{
+    background-color: black;
+	height: 10px;
+	border: none;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.listade{
+	font-family: "comic Sans MS", cursive;
+}
+
+.tabla{
+	font-family: "comis Sans MS", cursive;
+	
+}
+.tabla_fila{
+	background-color: #333;
+	font-family: "comic Sans MS", cursive;
+	color: white;
+	text-align: center;
+
+}
+.contacto{
+	font-family: "comic Sans MS", cursive;
+}
