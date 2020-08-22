@@ -12,8 +12,12 @@ p{
 	text-align: justify;
 }
 body{
-	background-color: #808080;
 	
+	width:1000px;
+    height:1000px;
+    margin:0.5em auto;
+    background-color: #808080;
+  
 }
 
 	
@@ -32,19 +36,21 @@ body{
 	padding: 0;
 	overflow: hidden;
 	background-color: #333;
+	border-radius: 1em;
    
 	
-	2
+	
 }
 .menu li {
 	float: left;
+	
 	
 }
 .menu li a{
 	display: block;
 	color: white;
 	text-align: center;
-	padding: 10px 130px;
+	padding: 10px 69px;
 	text-decoration: none;
 	font-family: "comic Sans MS", cursive;
 	
@@ -65,6 +71,7 @@ hr{
 
 .tabla{
 	font-family: "comis Sans MS", cursive;
+	text-align: justify;
 	
 }
 .tabla_fila{
